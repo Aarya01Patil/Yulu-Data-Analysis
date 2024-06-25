@@ -1,4 +1,4 @@
-*# Yulu Buisness Case Study*
+# Yulu Buisness Case Study
 
 ## About Yulu
 <br>
